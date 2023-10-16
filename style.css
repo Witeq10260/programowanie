@@ -1,0 +1,47 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+button{
+    background-color: #2F180C;
+    color: khaki;
+    margin: 5px;
+    padding: 10px   ;
+}
+body{
+    background-color: #F6E5DC;
+    font: verdana;
+}
+header{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+}
+
+#lewy{
+    width: 60%;
+    float: left;
+    
+}
+#prawy{
+    padding: 70px;
+    font-size: 150%;
+    float: right;
+}
+
+#dolny{
+    background-color: #D0B6A8;
+    text-align: center;
+    padding: 30px;
+}
+#stopka{
+    background-color: #2F180C;
+    height: 60px;
+    color:khaki
+    
+}
+
+i:hover{
+    color: blue;
+}
